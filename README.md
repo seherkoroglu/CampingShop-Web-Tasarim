@@ -1,1 +1,1 @@
-# CampingShop.github.io
+# CampingShop
